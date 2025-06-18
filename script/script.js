@@ -4,6 +4,7 @@ const h2_uno = document.getElementById("h2-uno");
 //     alert("Clic en el H2");
 // });
 
+const arregloFrutas = [10, 30,"sandía", "mono", "melón", "ferrari-sf90", "banana", "ciruela", "aguacate", "chabacano",["brocoli", "jitomate"]];
 
 const cerveza = {
 
@@ -42,4 +43,5 @@ const cerveza = {
     ]
 
 }
+
 
